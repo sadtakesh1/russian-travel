@@ -2,7 +2,7 @@
   text-align: center;
   color: #fff;
   font-size: 96px;
-  line-height: 1;
+  line-height: 100px;
   font-weight: 900;
   max-width: 720px;
   margin: 0 auto;
@@ -12,6 +12,6 @@
   .lead__title {
     max-width: 288px;
     font-size: 40px;
-    line-height: 1.1;
+    line-height: 44px;
   }
 }
